@@ -1,0 +1,43 @@
+.container{
+  font-family: 'Fredericka the Great', cursive;
+  text-align: center;
+
+
+}
+
+.dice{
+  font-family: 'Satisfy', cursive;
+  display: inline-block;
+  margin: 50px;
+  font-size: 2rem;
+
+
+}
+.head{
+    font-size: 7rem;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+
+}
+
+footer{
+  text-align: center;
+  font-size: 1rem;
+
+}
+
+body{
+  background-color: #767c77;
+  color: #99f3bd;
+}
+
+.img1{
+  width: 200px;
+}
+
+.img2{
+  width: 200px;
+}
